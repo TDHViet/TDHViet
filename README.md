@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 📚 Eager to learn and adapt to new technologies and challenges
 
-[![TDHViet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDHViet&theme=highcontrast)](https://github.com/TDHViet/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=TDHViet&theme=highcontrast)](https://git.io/streak-stats)
+[![TDHViet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDHViet&theme=highcontrast)](https://github.com/TDHViet/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=TDHViet&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
