@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋  Hi, I'm Viet:
-🎓 Final year Computer Science student at Ho Chi Minh City University of Technology - VNUHCM<br><br>💻 Aspiring Software Engineer passionate about learning and building tech solutions<br><br>🛠️ Sharing my projects and learnings on GitHub, from web apps to IoT systems<br><br>🌱 Active in volunteer work and tech community events<br><br>📚 Eager to learn and adapt to new technologies and challenges
+🎓 I am a recent graduate student from Ho Chi Minh City University of Technology - VNUHCM<br><br>💻 Aspiring Software Engineer passionate about learning and building tech solutions<br><br>🛠️ Sharing my projects and learnings on GitHub, from web apps to IoT systems<br><br>🌱 Active in volunteer work and tech community events<br><br>📚 Eager to learn and adapt to new technologies and challenges
 
 
 ## 🌐 Socials:
